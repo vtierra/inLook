@@ -1,12 +1,12 @@
-Team Name: Team Javascript <br/> <br/>
+Team Name: Team Javascript <br/>
 
 Team Members: <br/>
 
-Sumedha Gupta___
-Kyle Burt___
-Vince Tierra___
-Lynley Yamaguchi___
-Proposal___
+Sumedha Gupta<br/>
+Kyle Burt <br/>
+Vince Tierra <br/>
+Lynley Yamaguchi <br/>
+Proposal <br/>
 
 Our team will be working on a project that provides a platform for interior designers <br/>
 to share and discover work produced by other interior designers and architects.<br/>
